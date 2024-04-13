@@ -1,0 +1,1 @@
+print ("Retomanda de conteúdo")
